@@ -1,0 +1,20 @@
+{
+  "name": "react-animotion",
+  "version": "0.0.21",
+  "description": "Currently playing with an idea for animations in React.\n\nThe animations run much smoother in your own environment. ",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
